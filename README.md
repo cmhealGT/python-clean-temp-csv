@@ -5,7 +5,7 @@ This is a script to clean the temperature sensor data.
 - Create a 'cleaned' file
 - Remove uninformative columns
 - Short descriptions of racks
-- Convert timestamp text to some numeric standard
+- Convert timestamp text to some numeric standard (perhaps unnecessary)
 
 ## Inputs from file
 - Device (usually a combination of room, rack, device, and IP address)
